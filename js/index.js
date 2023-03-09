@@ -17,6 +17,7 @@ let animacionCarga;
 let sorteando = false;
 
 const colores = [
+  "020202",
   "38782c",
   "f5554a",
   "9fd984",
