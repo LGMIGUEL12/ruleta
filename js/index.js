@@ -17,19 +17,16 @@ let animacionCarga;
 let sorteando = false;
 
 const colores = [
-  "38782c",
-  "f5554a",
-  "9fd984",
-  "ffef62",
-  "3bb3c1",
+  "833839",
+  "522f70",
   "024164",
-  "64bb6a",
-  "006400",
-  "B8860B",
-  "D2691E",
-  "A52A2A",
-  "f6b35c",
-  "f65cec",
+  "42B2BB",
+  "0C7A11",
+  "8DC95B",
+  "D3C024",
+  "D38425",
+  "F27026",
+  "CA0C0C",
 ];
 
 let escala = screen.width < 550 ? screen.width * 0.7 : 400;
